@@ -1,0 +1,5 @@
+# requirements.txt
+tensorflow
+opencv-python
+numpy
+
